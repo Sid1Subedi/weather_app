@@ -1,0 +1,9 @@
+# Configuration file for the Flutter app
+
+# Network settings, as Strings
+openWeatherServerAddress: "https://api.openweathermap.org"
+openWeatherAPIKey: "8519b1b62bee221230fe9597b8110085"
+
+# App Encryption - Hive Constants as Strings
+kSecureBoxName: 'SkyViewWeatherAppBox'
+kAppDetailsStorageKey: "SkyView-Weather@AppKey|!|"
